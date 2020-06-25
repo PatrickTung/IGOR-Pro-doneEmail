@@ -1,0 +1,1 @@
+"%~dp0\jobDoneIgorGmail.ahk"
